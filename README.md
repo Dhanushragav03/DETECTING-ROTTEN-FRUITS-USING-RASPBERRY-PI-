@@ -17,6 +17,3 @@ Train machine learning models on labeled datasets to enhance the accuracy of fru
 Techniques such as Convolutional Neural Networks (CNNs) can be employed for this purpose.
 5. GPIO Control
 Utilize Raspberry Pi's GPIO pins for interfacing with external hardware, such as actuators or displays, for real-time alerts or sorting instructions.
-6. Web Interface
-Develop a web-based interface for remote monitoring and control of the detection process.
-This interface can provide real-time feedback on fruit inspection results and allow for adjustments to system parameters.

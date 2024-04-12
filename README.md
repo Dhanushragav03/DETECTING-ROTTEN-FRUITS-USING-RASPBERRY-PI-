@@ -1,7 +1,9 @@
-#Rotten Fruit Detection Using Raspberry Pi
+# Rotten Fruit Detection Using Raspberry Pi
+
 This project aims to utilize Raspberry Pi for the detection of rotten fruits using computer vision techniques. By leveraging the capabilities of Raspberry Pi along with image processing algorithms, we can create an affordable and efficient solution for identifying and sorting out rotten fruits in real-time.
 
-Key Components
+## Key Components
+
 1. Raspberry Pi Setup
 Hardware: Raspberry Pi board (e.g., Raspberry Pi 3/4), Camera Module.
 Software: Raspbian OS, Python libraries (OpenCV, TensorFlow, etc.).
